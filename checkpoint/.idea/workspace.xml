@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d9bdb46-b80f-4104-a9bb-8028151734e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php_checkpoint3/src/Services/MapManager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_checkpoint3/config/packages/dev/easy_log_handler.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint3/config/packages/dev/easy_log_handler.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_checkpoint3/config/packages/prod/doctrine.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint3/config/packages/prod/doctrine.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_checkpoint3/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint3/config/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_checkpoint3/src/service/MapManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php_checkpoint3/src/Controller/BoatController.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint3/src/Controller/BoatController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578038595256</updated>
-      <workItem from="1578038596918" duration="10124000" />
+      <workItem from="1578038596918" duration="11437000" />
     </task>
     <servers />
   </component>
